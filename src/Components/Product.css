@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    flex-direction: column;
+}
+.product > img {
+    max-height: 200px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 25px;
+}
+/* .product_info{
+    height: 100px;
+    margin-bottom: 15px;
+} */
+.product_price{
+    margin-top: 5px;
+}
+.product_rating{
+    height: 10px;
+    width: 20px;
+    /* display: flex;
+    margin-bottom: 25px; */
+}
+.icon{
+    color: yellow;
+}
+
+

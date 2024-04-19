@@ -1,0 +1,11 @@
+.home{
+    max-width: 1500px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.home_image{
+    width: 100%;
+    height: 550px;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1),rgba(0,0,0,0));
+    
+}
