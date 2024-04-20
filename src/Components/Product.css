@@ -25,4 +25,6 @@
     color: yellow;
 }
 
-
+.product > button{
+    background-color: orange;
+}
